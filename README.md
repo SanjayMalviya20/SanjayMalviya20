@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 👨‍💻 All of my projects are available at [sanjaymalviya.netlify.app](sanjaymalviya.netlify.app)
+- 👨‍💻 All of my projects are available at [sanjaymalviya.netlify.app](https://sanjaymalviya.netlify.app)
 <p align="right"> <img width="350px" align="right" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="sanjaymalviya20" /> </p>
 - 💬 Ask me about **javascript,html,css,nodejs,mongodb**
 
