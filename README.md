@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **webiste**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **react native**
 
 - 👨‍💻 All of my projects are available at [sanjaymalviya.netlify.app](https://sanjaymalviya.netlify.app)
 <p align="right"> <img width="350px" align="right" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="sanjaymalviya20" /> </p>
